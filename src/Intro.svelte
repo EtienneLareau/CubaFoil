@@ -52,7 +52,7 @@
         h1 { font-size: 2.7rem; }
 
         p {
-            font-size: 1.5rem;
+            font-size: 1.4rem;
             line-height:1.3;
         }
     }
