@@ -54,7 +54,7 @@
     p { font-family: bicyclette, sans-serif;
         font-weight: 400;
         font-style: normal;
-        font-size: 1.3rem ;
+        font-size: 1.4rem ;
         text-align: left;
         background: rgba(255, 250, 234, 0.196);
         padding: 10px 10px;
