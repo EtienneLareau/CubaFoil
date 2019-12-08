@@ -62,7 +62,7 @@
             font-weight: 400;
             font-style: normal;
             padding: 0 1em;
-            font-size:1.3rem;
+            font-size:1.4rem;
         }
       
         h2 {
