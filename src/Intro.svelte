@@ -49,12 +49,10 @@
             padding:30px 0px 40px;
         }
         
-        h1 {
-            font-size: 2.7rem;
-        }
+        h1 { font-size: 2.7rem; }
 
         p {
-            font-size: 1.3rem;
+            font-size: 1.5rem;
             line-height:1.3;
         }
     }
