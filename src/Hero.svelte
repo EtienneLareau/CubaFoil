@@ -23,20 +23,14 @@
               text-transform: uppercase ;
               width:95%; }
     
-    h2, p { font-family: bicyclette, sans-serif;
-            
-            font-style: normal;
-            text-shadow: 1px 1px 10px rgb(18, 97, 74); }
-
-    h2 {  font-size: 6vw;
+    h2 { font-family: bicyclette, sans-serif;
+         font-style: normal;
+         text-shadow: 1px 1px 10px rgb(18, 97, 74);
+         font-size: 6vw;
           font-weight: 700;
           padding:0;
           margin:0 0 -10px;
           line-height:1.1; }
-
-    p { font-size: 3vw;
-        font-weight: 400;
-        line-height: 1.3; }
 
 
     @media only screen and (max-width:700px){

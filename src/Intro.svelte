@@ -35,7 +35,7 @@
          text-shadow: 1px 1px 3px #86fadb }
 
     p { font-family: bicyclette, sans-serif;
-        font-weight: 400;
+        font-weight: 300;
         font-style: normal;
         letter-spacing: 1.03px;
         font-size: 1.7rem ;
