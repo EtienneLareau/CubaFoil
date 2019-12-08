@@ -105,7 +105,7 @@
         <h2 class="title">Vous voulez devenir un foileux ?</h2>
         <p class="para">Veuillez remplir le formulaire ci-dessous.<br>Un agent vous contactera dans les prochaines 24 heures.</p>
         <br><br>
-        <form name="FoilContactForm" method="POST" Content-Type="application/x-www-form-urlencoded" netlify action="/about">
+        <form name="FoilContactForm" method="POST" Content-Type="application/x-www-form-urlencoded" netlify action="/">
             <input type="hidden" name="form-name" value="FoilContactForm" />
             
             <label for="name"><p>Nom et prénom</p></label>
