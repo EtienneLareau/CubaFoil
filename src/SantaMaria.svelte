@@ -13,7 +13,7 @@
     p {
         font-size: 1.7rem ;
         font-family: bicyclette, sans-serif;
-        font-weight: 400;
+        font-weight: 300;
         font-style: normal;
         padding: 5px;
     }
@@ -37,7 +37,7 @@
       
         p {
            font-family: bicyclette, sans-serif;
-            font-weight: 400;
+            font-weight: 300;
             font-style: normal;
             font-size: 1.7rem ;
             padding: 0 1em;
@@ -59,7 +59,7 @@
      
         p {
             font-family: bicyclette, sans-serif;
-            font-weight: 400;
+            font-weight: 300;
             font-style: normal;
             padding: 0 1em;
             font-size:1.4rem;
