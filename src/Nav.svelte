@@ -203,7 +203,9 @@
 		margin-right:40px;
 		}
 		.regEx { display:none; }
-		img { width:125px; }
+		img { 
+			width:125px;
+			left:20px; }
 	}
 
 </style>
